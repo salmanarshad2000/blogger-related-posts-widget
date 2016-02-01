@@ -1,5 +1,5 @@
 /*!
- * Blogger Related Posts Widget v1.0.0
+ * Blogger Related Posts Widget v1.0.2
  * https://github.com/salmanarshad2000/blogger-related-posts-widget
  * Copyright (c) 2012-2015 Salman Arshad
  * Released under the MIT license
