@@ -23,7 +23,7 @@ In order for the script to work make sure that:
 
 The easiest way to install the script on your blog is to use the "Add a Gadget" option in Blogger dashboard to insert a "HTML/JavaScript" gadget. The gadget can go anywhere but below the footer would be best. Use the following HTML5 content:
 
-    <script src="//cdn.rawgit.com/salmanarshad2000/blogger-related-posts-widget/v1.0.2/related-posts.min.js" defer></script>
+    <script src="//cdn.rawgit.com/salmanarshad2000/blogger-related-posts-widget/v1.0.3/related-posts.min.js" defer></script>
 
 ## CSS Styles
 
