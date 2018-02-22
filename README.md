@@ -1,6 +1,6 @@
 # Blogger Related Posts Widget
 
-Blogger Related Posts Widget is a script that displays a list of related posts below the current post. It does so by finding posts with matching labels. Here is an [overview of the script](http://salman-w.blogspot.com/2012/09/blogger-related-posts.html).
+Blogger Related Posts Widget is a script that displays a list of related posts below the current post. It does so by finding posts with matching labels. Here is an [overview of the script](https://salman-w.blogspot.com/2012/09/blogger-related-posts.html).
 
 ## Features
 
@@ -23,7 +23,7 @@ In order for the script to work make sure that:
 
 The easiest way to install the script on your blog is to use the "Add a Gadget" option in Blogger dashboard to insert a "HTML/JavaScript" gadget. The gadget can go anywhere but below the footer would be best. Use the following HTML5 content:
 
-    <script src="//cdn.rawgit.com/salmanarshad2000/blogger-related-posts-widget/v1.0.3/related-posts.min.js" defer></script>
+    <script src="//cdn.rawgit.com/salmanarshad2000/blogger-related-posts-widget/v1.0.4/related-posts.min.js" defer></script>
 
 ## CSS Styles
 
